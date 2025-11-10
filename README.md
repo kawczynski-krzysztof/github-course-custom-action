@@ -1,3 +1,5 @@
+[![Step 1, Initialize JavaScript Project](https://github.com/kawczynski-krzysztof/github-course-custom-action/actions/workflows/1-initialize-javascript-project.yml/badge.svg)](https://github.com/kawczynski-krzysztof/github-course-custom-action/actions/workflows/1-initialize-javascript-project.yml)
+
 <header>
 
 <!--
