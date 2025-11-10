@@ -1,4 +1,5 @@
 [![Step 1, Initialize JavaScript Project](https://github.com/kawczynski-krzysztof/github-course-custom-action/actions/workflows/1-initialize-javascript-project.yml/badge.svg)](https://github.com/kawczynski-krzysztof/github-course-custom-action/actions/workflows/1-initialize-javascript-project.yml)
+[![Step 3, Create Metadata File](https://github.com/kawczynski-krzysztof/github-course-custom-action/actions/workflows/3-create-metadata-file.yml/badge.svg)](https://github.com/kawczynski-krzysztof/github-course-custom-action/actions/workflows/3-create-metadata-file.yml)
 
 <header>
 
